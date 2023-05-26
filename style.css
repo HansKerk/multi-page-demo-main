@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  border: 1px;
+}
+h1 {
+  background: -webkit-linear-gradient(red, gold);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nav a {
+  margin: 0px 25px;
+  color: black;
+}
+html {
+  background-image: url(img/Germany_background.jpg);
+}
